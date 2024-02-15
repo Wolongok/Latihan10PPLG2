@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyKalkulator</string>
+    <array name="spinner_items">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </array>
+
+</resources>
